@@ -1,6 +1,6 @@
 {
-    "TOKEN": "7673493458:AAELvwvmQ16vRgVFX32bcvJeJzMEhIsSWUE",
-    "ADMIN_CHAT_ID": "666885772",
+    "TOKEN": "Bot_token",
+    "ADMIN_CHAT_ID": "Telegram_id",
     "V2RAY_SERVER": "ADDRESS_SERVER_V2RAY",
     "V2RAY_PORT": 443,
     "V2RAY_UUID": "UUID_KARBAR",
